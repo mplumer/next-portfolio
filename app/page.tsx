@@ -5,6 +5,7 @@ import Particles from "./components/particles";
 const navigation = [
 	{ name: "Projects", href: "/projects" },
 	{ name: "Contact", href: "/contact" },
+	{ name: "Resume", href: "https://drive.google.com/file/d/1SdiuSb5z056SqvWHmryr2EbD8xXU5nnQ/view?usp=sharing" },
 ];
 
 export default function Home() {
