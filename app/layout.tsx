@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 		siteName: "maxplumer.com",
 		images: [
 			{
-				url: "https://maxplumer.com/og.png",
+				url: "https://maxplumer.com/favicon.png",
 				width: 1920,
 				height: 1080,
 			},
