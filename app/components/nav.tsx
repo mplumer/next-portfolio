@@ -40,6 +40,12 @@ export const Navigation: React.FC = () => {
 						>
 							Contact
 						</Link>
+						<Link
+							href="https://drive.google.com/file/d/1SdiuSb5z056SqvWHmryr2EbD8xXU5nnQ/view?usp=sharing"
+							className="duration-200 text-zinc-400 hover:text-zinc-100"
+						>
+							Resume
+						</Link>
 					</div>
 
 					<Link
