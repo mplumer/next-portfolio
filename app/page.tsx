@@ -5,7 +5,7 @@ import Particles from "./components/particles";
 const navigation = [
 	{ name: "Projects", href: "/projects" },
 	{ name: "Contact", href: "/contact" },
-	{ name: "Resume", href: "https://drive.google.com/file/d/1SdiuSb5z056SqvWHmryr2EbD8xXU5nnQ/view?usp=sharing" },
+	{ name: "Resume", href: "https://drive.google.com/file/d/19aJ9gzu9jezpEx1lokkcqoAGwD5wpA68/view?usp=sharing" },
 ];
 
 export default function Home() {
@@ -56,7 +56,7 @@ export default function Home() {
 					and my{" "}
 					<Link
 						target="_blank"
-						href="https://drive.google.com/file/d/1SdiuSb5z056SqvWHmryr2EbD8xXU5nnQ/view?usp=sharing"
+						href="https://drive.google.com/file/d/19aJ9gzu9jezpEx1lokkcqoAGwD5wpA68/view?usp=sharing"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						Resume
